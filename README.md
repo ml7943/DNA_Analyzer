@@ -86,7 +86,7 @@ python dna_analyzer.py reference.fasta subject1.fasta subject2.fasta
 The DNA Analyzer includes unit tests to ensure functionality and accuracy. To run the tests, use:
 
 ```bash
-python -m unittest discover
+python test_analyzer.py
 ```
 
 - This command discovers and runs all test cases in the current directory and subdirectories.
