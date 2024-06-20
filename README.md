@@ -89,8 +89,6 @@ The DNA Analyzer includes unit tests to ensure functionality and accuracy. To ru
 python test_analyzer.py
 ```
 
-- This command discovers and runs all test cases in the current directory and subdirectories.
-
 ---
 
 ## Contributing
