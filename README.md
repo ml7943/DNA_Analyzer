@@ -108,6 +108,6 @@ Contributions to the DNA Analyzer project are welcome. Here are some ways you ca
 
 - [Mu Li](mailto:mu.li@icahn.mssm.edu)
 
-For questions or feedback, contact [Your Email](mailto:mu.li@icahn.mssm.edu).
+For questions or feedback, contact [My Email](mailto:mu.li@icahn.mssm.edu).
 
 ---
